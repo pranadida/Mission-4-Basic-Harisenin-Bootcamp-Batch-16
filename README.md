@@ -2,7 +2,7 @@ Website To-Do-List
 - Website To-Do-List ini Menggunakan Tech Stack HTML, CSS, Javascript
 - Menggunakan LocalStorage Browser (Data To-Do-List Tidak Hilang walaupun di Refresh)
   
-Fitur yang terdapat pada Website To-Do-List ini
+Fitur Website To-Do-List
 - To-Do-List Profile : Mengatur Nama dan jabatan kemudian menyimpannya
 - To-Do-List Add dan Delete : Menambah dan Menghapus To-Do-List 
 - To-Do-List List : Menampilkan To-Do-List yang telah dibuat di tampilkannya di Daftar Tugas
@@ -10,4 +10,4 @@ Fitur yang terdapat pada Website To-Do-List ini
 - To-Do-List Undo Task : Mengembalikan Tugas Yang Selesai Ke Daftar Tugas
 - To-Do-List Delete All : Menghapus Semua To-Do-List yang telah dibuat Secara Keseluruhan
 
-Berikut Link Websitenya : https://mission-4-basic-harisenin-bootcamp.vercel.app/
+Berikut Link Websitenya : https://mission-4-basic-todolist-harisenin-bootcamp.vercel.app/
